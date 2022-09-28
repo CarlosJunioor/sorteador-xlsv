@@ -6,7 +6,7 @@
 
 Function is to simply automate the current method of raffling winners in Sonecarox live, https://www.twitch.tv/sonecarox, the only thing you need to do is find your .xlsx file, inside that file the only thing you you will need to have a table with the name of the usernames and that's it.
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-c392307d1f.gif" alt="Gif Website SonecaRox" width="50%">
+<img src="https://s4.gifyu.com/images/React-App---25-September-2022.gif" alt="Gif Website SonecaRox" width="50%">
 
 
 ## 🔨 Project functionalities
